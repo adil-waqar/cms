@@ -1,0 +1,123 @@
+body {
+  background-color: #f4f4f4;
+}
+
+.navbar {
+  min-height: 33px !important;
+  margin-bottom: 0px;
+  border-radius: 0px;
+}
+
+.navbar-nav>li>a, .navbar-brand {
+  padding-bottom: 0px;
+  min-height: 33px;
+  padding-top: 12px;
+}
+
+.navbar-default {
+  background-color: #404040;
+  border-color: #282828;
+}
+
+.navbar-default .navbar-brand {
+  color: #d3d3d3;
+}
+
+.navbar-default .navbar-brand:hover, .navbar-default .navbar-brand:focus {
+  color: #808080;
+}
+
+.navbar-default .navbar-text {
+  color: #d3d3d3;
+}
+
+.navbar-default .navbar-nav>li>a {
+  color: #d3d3d3;
+}
+
+.navbar-default .navbar-nav>li>a:hover, .navbar-default .navbar-nav>li>a:focus {
+  color: #808080;
+}
+
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  color: #808080;
+  background-color: #282828;
+}
+
+.navbar-default .navbar-nav>.open>a, .navbar-default .navbar-nav>.open>a:hover, .navbar-default .navbar-nav>.open>a:focus {
+  color: #808080;
+  background-color: #282828;
+}
+
+.navbar-default .navbar-toggle {
+  border-color: #282828;
+}
+
+.navbar-default .navbar-toggle:hover, .navbar-default .navbar-toggle:focus {
+  background-color: #282828;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+  background-color: #d3d3d3;
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+  border-color: #d3d3d3;
+}
+
+.navbar-default .navbar-link {
+  color: #d3d3d3;
+}
+
+.navbar-default .navbar-link:hover {
+  color: #808080;
+}
+
+.navbar-form {
+  margin-left: 20px !important;
+}
+
+#header {
+  background-color: #484848;
+  color: #ffffff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+.main-color-bg {
+  background-color: #484848 !important;
+  color: #ffffff !important;
+  border-color: #484848 !important;
+}
+
+.dash-box {
+  text-align: center;
+}
+
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  text-align: center;
+  background-color: #484848 !important;
+  color: #ffffff !important;
+  padding: 30px;
+}
+
+.breadcrumb {
+  padding: 0px;
+}
+
+.breadcrumb>li>a {
+  color: #484848 !important;
+}
+
+.login{
+  margin-top: 100px;
+}
+
+
+small {
+  color: #A9A9A9!important;
+}
